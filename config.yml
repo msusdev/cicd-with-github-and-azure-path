@@ -5,5 +5,5 @@ steps:
   - link: 'https://microsoft.com'
     title: 'Webinar: Introduction to GitHub Actions'
     description: Learn how GitHub Actions enable you to automate your software development cycle and deploy applications to Azure. We’ll walk you through how to create a basic GitHub Action and use that action in a workflow.
-  - course: msusdev/introduction-to-github-actions-course
+  - course: msusdev/introduction-to-github-actions
     description: Get hands-on and try implementing a basic GitHub action for a Node.js repository.
