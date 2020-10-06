@@ -1,10 +1,5 @@
 title: Build end-to-end CI/CD capabilities directly in GitHub
-description: >-
-  With GitHub Actions, you can create and set up workflows in your repository to
-  build, test, and deploy your code to Azure. This webinar training series is
-  for teams looking to build end-to-end continuous integration (CI) and
-  continuous deployment (CD) capabilities directly in their GitHub
-  repositories.
+description: With GitHub Actions, you can create and set up workflows in your repository to build, test, and deploy your code.
 steps:
   - link: 'https://www.youtube.com/watch?v=s-WkdSXRDA4'
     video: 'https://www.youtube.com/embed/s-WkdSXRDA4'
@@ -12,4 +7,4 @@ steps:
     description: >-
       Learn how GitHub Actions enable you to automate your software development
       cycle and deploy applications to Azure. We’ll walk you through how to
-      create a basic GitHub Action and use that action in a workflow.
+      create a basic GitHub workflow.
