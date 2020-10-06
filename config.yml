@@ -1,6 +1,10 @@
 title: Build end-to-end CI/CD capabilities directly in GitHub
 description: With GitHub Actions, you can create and set up workflows in your repository to build, test, and deploy your code.
 steps:
+  - link: https://github.com/MSUSDEV/end-to-end-github-actions
+    title: GitHub ➡️ Presentation Repository
+    description: >-
+      Review demos and presentation content here
   - link: https://www.youtube.com/watch?v=s-WkdSXRDA4
     video: https://www.youtube.com/embed/s-WkdSXRDA4
     title: Webinar ➡️ Introduction to GitHub Actions
