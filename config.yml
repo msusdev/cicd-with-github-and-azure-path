@@ -13,7 +13,44 @@ steps:
       cycle and deploy applications to Azure. We’ll walk you through how to
       create a basic GitHub workflow.
   - course: 'githubtraining/github-actions:-hello-world'
-  - link: https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/
+  - link: https://docs.microsoft.com/learn/modules/github-actions-automate-tasks/
     title: Microsoft Learn ➡️ Automate development tasks by using GitHub Actions
     description: >-
       On Microsoft Learn, create a basic GitHub Action and use that action in a workflow.
+  - link: https://www.youtube.com/watch?v=Dt_MvdCsdKU
+    video: https://www.youtube.com/embed/Dt_MvdCsdKU
+    title: Webinar ➡️ Automate it with GitHub Actions
+    description: >-
+      GitHub Actions is a powerful and flexible automation platform built into 
+      GitHub. It allows you to do powerful serverless build and deployments but 
+      is also capable of so much more.
+  - course: 'githubtraining/github-actions:-continuous-integration'
+  - course: 'githubtraining/github-actions:-write-docker-container-actions'
+  - course: 'githubtraining/github-actions:-publish-to-github-packages'
+  - link: https://docs.microsoft.com/learn/modules/github-actions-ci/
+    title: Microsoft Learn ➡️ Build continuous integration (CI) workflows by using GitHub Actions
+    description: >-
+      On Microsoft Learn, create workflows that enable you to use Continuous Integration (CI) for your projects.
+  - link: https://www.youtube.com/watch?v=p5l_gg-Spz8
+    video: https://www.youtube.com/embed/p5l_gg-Spz8
+    title: Azure Friday ➡️ Deploy to Azure using GitHub Actions
+    description: >-
+      Watch this discussion on how to deploy to Azure using GitHub Actions, which helps you to configure CI/CD from the GitHub UI.
+  - course: 'githubtraining/github-actions:-continuous-delivery-with-azure'
+  - link: https://docs.microsoft.com/learn/modules/github-actions-cd/
+    title: Microsoft Learn ➡️ Build and deploy applications to Azure by using GitHub Actions
+    description: >-
+      On Microsoft Learn, create two deployment workflows using GitHub Actions and Microsoft Azure.
+  - link: https://www.youtube.com/watch?v=b2oyxbSbLPA
+    video: https://www.youtube.com/embed/b2oyxbSbLPA
+    title: Azure Snippets ➡️ How to deploy your web app using GitHub Actions
+    description: >-
+      In this snippet, learn how to deploy Azure web apps using GitHub Actions directly from the Azure portal.
+  - link: https://gist.github.com/seesharprun/6e969f52a242a9c4681524df51b94ea4
+    title: GitHub Gist ➡️ Final workflow YAML file
+    description: >-
+      This Gist contains the final YAML file from the webinar series.
+  - link: https://github.com/msusdev/example-next-web-app
+    title: GitHub ➡️ Final project repository
+    description: >-
+      This repository contains the sample project and all of the final assets from the webinar series.
